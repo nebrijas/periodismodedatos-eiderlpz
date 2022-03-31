@@ -1,4 +1,6 @@
 # Actividad dirigida 2
+## ¿Cómo hemos realizado el web scrapping?
+Debemos añadir el [link](https://resultados.elpais.com/deportivos/juegos-olimpicos/medallero/%22)
 
 ```
 from bs4 import BeautifulSoup
