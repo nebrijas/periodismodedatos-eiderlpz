@@ -1,7 +1,7 @@
 # Actividad dirigida 2
 ## En qué consiste? 
 Esta actividad consiste en explicar cómo hemos realizado el web scrapping. 
-La tarea se visualiza en mi [cuaderno de jupyter](http://localhost:8888/notebooks/Desktop/periodismosdedatos-eiderlpz2/scraping.ipynb)
+La tarea se visualiza en mi [cuaderno de jupyter](https://github.com/nebrijas/periodismodedatos-eiderlpz/blob/main/scraping.ipynb)
 
 A continuación le muestro el código:
 ```
