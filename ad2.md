@@ -3,7 +3,7 @@
 Esta actividad consiste en explicar cómo hemos realizado el web scrapping. 
 La tarea se visualiza en mi [cuaderno de jupyter](http://localhost:8888/notebooks/Desktop/periodismosdedatos-eiderlpz2/scraping.ipynb)
 
-Este es el código:
+A continuación le muestro el código:
 ```
 from bs4 import BeautifulSoup
 import requests
