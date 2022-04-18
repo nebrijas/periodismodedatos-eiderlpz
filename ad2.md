@@ -1,6 +1,6 @@
 # Actividad dirigida 2
 ## En qué consiste? 
-Está actividad consiste en explicar cómo hemos realizado el web scrapping 
+Esta actividad consiste en explicar cómo hemos realizado el web scrapping 
 Accede a mi cuaderno de jupyter a traves de este [link](http://localhost:8888/notebooks/Desktop/periodismosdedatos-eiderlpz2/scraping.ipynb)
 
 Este es el código:
