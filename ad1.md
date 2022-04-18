@@ -1,8 +1,10 @@
 # **Vox es el único partido que crece y pisa los talones al PP**
 
-## *La crisis de los populares permite al PSOE aumentar su ventaja como primera fuerza, según el barómetro de EL PAÍS y la SER (Lo mismo con estas almohadillas. Cuando pones El País podrías haber enlazado la noticia)*
+## *La crisis de los populares permite al PSOE aumentar su ventaja como primera fuerza, según el barómetro de EL PAÍS y la SER*
 
-La infografía que vamos a analizar trata sobre los escaños que conseguiría cada partido, según los datos recogidos por el barómetro de El País y la SER en el mes de marzo. Considero que es una infografía muy acertada y que refleja los datos de una manera clara y concisa. (¿Qué tipo de gráfico es? ¿Con qué tecnologías se ha hecho? ¿Es interactivo?
+La infografía que vamos a analizar trata sobre los escaños que conseguiría cada partido, según los datos recogidos por el barómetro de El País y la SER en el mes de marzo. Puedes visualizarlo en el siguiente [enlace](https://elpais.com/espana/2022-03-07/vox-es-el-unico-partido-que-crece-y-pisa-los-talones-al-pp.html) 
+
+Considero que es una infografía muy acertada y que refleja los datos de una manera clara y concisa. Se trata de un gráfico semi circulo que permite la interacción. Puedes apreciar lo que significa un gráfico semi circulo en la siguiente ![imagen] (https://chrono9394.files.wordpress.com/2012/11/image1.png) 
 
 Por un lado, los colores son afines a cada partido. Parece una cuestión que siempre se tiene en cuenta, pero hemos podido ver infografías en las que no se han respetado los colores de cada fuerza política y en ese caso, además de resultar extraño a primera vista, no transmite confianza.
 
