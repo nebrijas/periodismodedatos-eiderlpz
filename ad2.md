@@ -1,7 +1,8 @@
 # Actividad dirigida 2
-## ¿Cómo hemos realizado el web scrapping?
-Debemos añadir el [link](https://resultados.elpais.com/deportivos/juegos-olimpicos/medallero/%22)
+## Está actividad consiste en explicar cómo hemos realizado el web scrapping 
+Accede a mi cuaderno de jupyter a traves de este [link](http://localhost:8888/notebooks/Desktop/periodismosdedatos-eiderlpz2/scraping.ipynb)
 
+Este es el código:
 ```
 from bs4 import BeautifulSoup
 import requests
