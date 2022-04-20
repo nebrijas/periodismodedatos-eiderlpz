@@ -1,5 +1,5 @@
 # Actividad dirigida 2
-## En qué consiste? 
+## ¿En qué consiste? 
 Esta actividad consiste en explicar cómo hemos realizado el web scrapping. 
 La tarea se visualiza en mi [cuaderno de jupyter](https://github.com/nebrijas/periodismodedatos-eiderlpz/blob/main/scraping.ipynb)
 
